@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1512857597",
+    "project_id": "six-to-eight",
+    "storage_bucket": "six-to-eight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1512857597:android:5f029ae4c96eea1bdb8394",
+        "android_client_info": {
+          "package_name": "com.app.firebase_six"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1512857597-hip9gbnuhobtt8u3hb18e99g0c7imgdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.firebase_six",
+            "certificate_hash": "204e5a1c673422a989d5b0ddd17b5517dce86685"
+          }
+        },
+        {
+          "client_id": "1512857597-duf59tc8hv7bqpdvvkq606iuatbjgskt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAosBh1tECsZ4X98JJiJmGa0kvuppoN_68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1512857597-duf59tc8hv7bqpdvvkq606iuatbjgskt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1512857597-gt2tcgvo0vgpcpi33mma28fg3d0hg1ec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.firebaseSix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
